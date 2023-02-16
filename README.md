@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Ainda não estou trabalhando, mas sou uma amante da tecnologia.
+- 🔭 Sou uma amante da tecnologia.
 - 🌱 Estudo desenvolvimento Full Stack na Kenzie Academy Brasil.
 - 📫 Entre em contato comigo no meu email: diannacaroline06@gmail.com
 - 😄 Pronouns: Ela/Dela
