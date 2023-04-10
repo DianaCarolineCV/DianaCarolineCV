@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Sou uma amante da tecnologia.
+- 🔭 Sou uma amante da tecnologia e desenvolvedora  Front End.
 - 🌱 Sou estudante de Ciência da computação.
 - 📫 Entre em contato comigo no meu email: diannacaroline06@gmail.com
 - 😄 Pronouns: Ela/Dela
